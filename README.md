@@ -1,6 +1,5 @@
 # AvitoTask
 solution for avito task
-Конечно. Я бы сделал так:
 ## 1. Пайплайн
 
 1. Загружаем train и benchmark данные.
